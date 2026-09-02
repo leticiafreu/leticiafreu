@@ -21,7 +21,7 @@
 ## 📫 Connect with Me
 
 - 💼 **LinkedIn:** [Letícia Freu Silva](https://linkedin.com/in/leticia-freu-silva)
-- 📧 **Email:** leticia.freusilva@email.com
+- 📧 **Email:** leticiasfreu@gmail.com
 
 ---
 
