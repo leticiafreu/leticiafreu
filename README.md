@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Letícia Freu Silva 👋
 
-<!--
-**leticiafreu/leticiafreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 Currently studying for a **Technical Degree in Artificial Intelligence**.
+- 🛠️ Combining my background in **3D Modeling (SketchUp)** and **Client Communication** with modern Tech.
+- 🎯 Focused on **Practical AI Applications**, **Prompt Engineering**, and **Generative AI workflows**.
+- 💡 Passionate about continuous learning, visual innovation, and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+- 🐍 **Languages & Data:** Python (Learning), Data Analysis Fundamentals
+- 🤖 **AI & Generative Tools:** Prompt Engineering, ChatGPT, Midjourney, Stable Diffusion
+- 🎨 **Design & 3D:** SketchUp, Spatial & Visual Composition
+- 📦 **Version Control & Tools:** Git, GitHub, VS Code
+
+---
+
+## 📫 Connect with Me
+
+- 💼 **LinkedIn:** [Letícia Freu Silva](https://linkedin.com/in/leticia-freu-silva)
+- 📧 **Email:** leticia.freusilva@email.com
+
+---
+
+⚡ *Driven by curiosity, design, and artificial intelligence.*
